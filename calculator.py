@@ -1,15 +1,22 @@
 #Calculator using functions
 
 #Creating functions for various operations
+#This function will add both values
 
 def add(a,b) :
 	return a+b
 
+#This function will subtract both values
+
 def sub(a,b):
 	return a-b
 
+#This function will divide both values
+
 def div(a,b):
 	return a/b
+
+#This function will multiply both values
 
 def mul(a,b):
 	return a*b
