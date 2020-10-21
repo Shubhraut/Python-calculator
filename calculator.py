@@ -54,7 +54,7 @@ if choices in ('1','2','3','4'):
 	elif choices=='4':
 		print(num1, "x", num2, "=", mul(num1, num2))
 
-#If all the above commands get rejected the. it will solve this part
+#If all the above commands get rejected then it will solve this part
 
 else:
 	print("Invalid operation")
